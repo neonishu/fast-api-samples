@@ -1,3 +1,14 @@
+email-validator==2.3.0
 fastapi==0.122.0
-uvicorn==0.38.0
-fastapi[standard]
+fastapi-cli==0.0.16
+fastapi-cloud-cli==0.5.2
+httptools==0.7.1
+Jinja2==3.1.6
+pillow==12.0.0
+pip==24.3.1
+python-dotenv==1.2.1
+python-multipart==0.0.20
+PyYAML==6.0.3
+uvloop==0.22.1
+watchfiles==1.1.1
+websockets==15.0.1
